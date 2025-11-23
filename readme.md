@@ -1,22 +1,21 @@
-# 🦅 FALCON AI Assistant
+# JARVIS AI Assistant
 
 <div align="center">
 
-![FALCON AI](https://img.shields.io/badge/FALCON-AI%20Assistant-blue?style=for-the-badge&logo=python)
+![JARVIS AI](https://img.shields.io/badge/JARVIS-AI%20Assistant-blue?style=for-the-badge&logo=python)
 ![Python](https://img.shields.io/badge/Python-3.8+-green?style=for-the-badge&logo=python)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 **A powerful Voice-Controlled AI Assistant built with Python**
 
-*🤖 "Automate tasks. Speak. Listen. Create. All in one — with FALCON."*
-
-[📺 YouTube Demo](#) • [🐛 Report Bug](../../issues) • [💡 Request Feature](../../issues)
+*🤖 "Automate tasks. Speak. Listen. Create. All in one — with JARVIS."*
+ • [🐛 Report Bug](../../issues) • [💡 Request Feature](../../issues)
 
 </div>
 
 ## 🎯 Features
 
-✅ **Proper Desktop AI Assistant with all the functions.** - AI FALCON
+✅ **Proper Desktop AI Assistant with all the functions.** - AI JARVIS
 ✅ **Real-time Voice Control** - Advanced Speech-to-Text & Text-to-Speech capabilities  
 ✅ **System Command Execution** - Open/close apps, search web, automate actions  
 ✅ **AI Content Generation** - Create blogs, articles, and code snippets  
@@ -27,15 +26,11 @@
 ## 📸 Demo
 
 ```bash
-🧠 "Hello FALCON, open Chrome and play some music."
+🧠 "Hello JARVIS, open Chrome and play some music."
 🎵 Opening Google Chrome...
 🎶 Searching for music on YouTube...
 ✅ Task completed successfully!
 ```
-
-> 🎥 **YouTube demo coming soon!** [Subscribe here](#) to be notified
-
-## 🚀 Quick Start
 
 ### Prerequisites
 
@@ -47,16 +42,11 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/FALCON-AI-Assistant.git
-   cd FALCON-AI-Assistant
+   git clone https://github.com/tapaspani/JARVIS-AI-Assistant.git
+   cd JARVIS-AI-Assistant
    ```
 
-2. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Setup environment variables**
+2. **Setup environment variables**
    
    Create a `.env` file in the root directory:
    ```env
@@ -64,7 +54,7 @@
    GEMINI_API_KEY=your_gemini_api_key_here
    ```
 
-4. **Launch FALCON**
+3. **Launch FALCON**
    ```bash
    python Falcon.py
    ```
@@ -85,12 +75,11 @@
 ├── 🌐 web/              # Eel-based frontend interface
 ├── 🚀 Falcon.py         # Main application launcher
 ├── ⚙️ .env              # Environment configuration
-└── 📋 requirements.txt   # Python dependencies
 ```
 
 ## 🎤 Voice Commands
 
-FALCON responds to natural language commands:
+JARVIS responds to natural language commands:
 
 | Command Type | Examples |
 |--------------|----------|
@@ -143,10 +132,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Made with ❤️ by [Utkarsh Rishi](https://instagram.com/utkarshrishii)**
+**Made with ❤️ by [TAPAS Pani](https://instagram.com/tapas_pani_)**
 
 ⭐ **Don't forget to star the repo if you found it helpful!** ⭐
 
-[⬆ Back to top](#-falcon-ai-assistant)
+[⬆ Back to top](#-jarvis-ai-assistant)
 
 </div>
